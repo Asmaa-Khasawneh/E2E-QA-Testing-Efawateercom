@@ -1,0 +1,392 @@
+{
+	"id": "da1df3b5-f81a-43be-b461-ba1d0c786ed8",
+	"name": "Final Project",
+	"timestamp": "2024-11-04T17:22:13.276Z",
+	"collection_id": "38709569-45b4af9b-44b2-4812-af65-8cc8e6e92f1f",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 17,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2024-11-04T17:22:02.770Z",
+	"totalFail": 3,
+	"results": [
+		{
+			"id": "02dab111-934c-437f-884d-c9247fcc19a4",
+			"name": "Admin Login",
+			"url": "/api/Login/Loginuser",
+			"time": 58,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				58
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "662c897a-910d-42e9-890b-a27346d74b98",
+			"name": "User Login",
+			"url": "https://localhost:44318/api/Login/Loginuser",
+			"time": 34,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				34
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "a4aba39e-7b93-4b8b-a6d6-cf71b61b45e6",
+			"name": "Register as user",
+			"url": "https://localhost:44318/api/user/Register",
+			"time": 16,
+			"responseCode": {
+				"code": 204,
+				"name": "No Content"
+			},
+			"tests": {
+				"Status code is 200": false,
+				"Response time is less than 1s": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 0,
+					"fail": 1
+				},
+				"Response time is less than 1s": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				16
+			],
+			"allTests": [
+				{
+					"Status code is 200": false,
+					"Response time is less than 1s": true
+				}
+			]
+		},
+		{
+			"id": "da6f684b-dc9e-4d1b-82dd-ea5abac9bbde",
+			"name": "Get All Testimonial Admin",
+			"url": "https://localhost:44318/api/testimonial/GetAllTestimonialAdmin",
+			"time": 4037,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 1s": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 1s": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				4037
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 1s": false
+				}
+			]
+		},
+		{
+			"id": "0821a0ad-8791-4d46-b6cc-4e823345011a",
+			"name": "Aggregat Profets",
+			"url": "https://localhost:44318/api/Paymenthistory/AggregatProfets",
+			"time": 77,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				77
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "9d65ffd8-f5f1-44f5-bf21-c14453cd24ff",
+			"name": "Details Invoise",
+			"url": "https://localhost:44318/api/Invoice/DetailsInvoise",
+			"time": 9,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				9
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "4abcec6a-23ff-45e5-8dcc-8d447e5a40ab",
+			"name": "Update Testimonial Admin",
+			"url": "https://localhost:44318/api/Testimonial/UpdateTestimonialAdmin",
+			"time": 10,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				10
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "373a35a7-3006-4770-acb4-3b2902fcd1d1",
+			"name": "ADD Biller category",
+			"url": "https://localhost:44318/api/Billercategory",
+			"time": 13,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				13
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "dfca7bc2-cb2a-4dac-bee1-63820ce1ad00",
+			"name": "Delete Biller category ",
+			"url": "https://localhost:44318/api/Billercategory/9",
+			"time": 5022,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": false
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 0,
+					"fail": 1
+				}
+			},
+			"times": [
+				5022
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": false
+				}
+			]
+		},
+		{
+			"id": "169e7388-e6e6-4a2d-bd55-69e916d96d2b",
+			"name": "Get Bills by UserId",
+			"url": "https://localhost:44318/api/SerchPh/GetPhByUId",
+			"time": 19,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				19
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 9295,
+	"collection": {
+		"requests": [
+			{
+				"id": "02dab111-934c-437f-884d-c9247fcc19a4",
+				"method": "POST"
+			},
+			{
+				"id": "662c897a-910d-42e9-890b-a27346d74b98",
+				"method": "POST"
+			},
+			{
+				"id": "a4aba39e-7b93-4b8b-a6d6-cf71b61b45e6",
+				"method": "POST"
+			},
+			{
+				"id": "da6f684b-dc9e-4d1b-82dd-ea5abac9bbde",
+				"method": "GET"
+			},
+			{
+				"id": "0821a0ad-8791-4d46-b6cc-4e823345011a",
+				"method": "GET"
+			},
+			{
+				"id": "9d65ffd8-f5f1-44f5-bf21-c14453cd24ff",
+				"method": "POST"
+			},
+			{
+				"id": "4abcec6a-23ff-45e5-8dcc-8d447e5a40ab",
+				"method": "PUT"
+			},
+			{
+				"id": "373a35a7-3006-4770-acb4-3b2902fcd1d1",
+				"method": "POST"
+			},
+			{
+				"id": "dfca7bc2-cb2a-4dac-bee1-63820ce1ad00",
+				"method": "DELETE"
+			},
+			{
+				"id": "169e7388-e6e6-4a2d-bd55-69e916d96d2b",
+				"method": "POST"
+			}
+		]
+	}
+}

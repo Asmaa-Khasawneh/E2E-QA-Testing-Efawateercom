@@ -1,0 +1,280 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1730740081148,48,http://localhost:4200/auth/reqester,200,OK,Thread Group 1-1,text,true,,2201,508,1,1,http://localhost:4200/auth/reqester,43,0,28
+1730740081505,5,http://localhost:4200/assets/assestR/style.css,200,OK,Thread Group 1-1,text,true,,73305,372,1,1,http://localhost:4200/assets/assestR/style.css,4,0,0
+1730740081814,5,http://localhost:4200/styles.css,200,OK,Thread Group 1-1,text,true,,122497,358,2,2,http://localhost:4200/styles.css,4,0,0
+1730740082024,6,http://localhost:4200/auth/reqester,200,OK,Thread Group 1-2,text,true,,2201,508,2,2,http://localhost:4200/auth/reqester,6,0,2
+1730740082123,4,http://localhost:4200/assets/assestR/js/jquery.min.js,200,OK,Thread Group 1-1,text,true,,85879,364,2,2,http://localhost:4200/assets/assestR/js/jquery.min.js,4,0,0
+1730740082335,4,http://localhost:4200/assets/assestR/style.css,200,OK,Thread Group 1-2,text,true,,73305,372,2,2,http://localhost:4200/assets/assestR/style.css,4,0,0
+1730740082431,4,http://localhost:4200/assets/assestR/js/popper.min.js,200,OK,Thread Group 1-1,text,true,,20911,364,2,2,http://localhost:4200/assets/assestR/js/popper.min.js,4,0,0
+1730740082642,6,http://localhost:4200/styles.css,200,OK,Thread Group 1-2,text,true,,122497,358,2,2,http://localhost:4200/styles.css,5,0,0
+1730740082738,7,http://localhost:4200/assets/assestR/js/bootstrap.min.js,200,OK,Thread Group 1-1,text,true,,56075,367,3,3,http://localhost:4200/assets/assestR/js/bootstrap.min.js,7,0,0
+1730740082953,6,http://localhost:4200/assets/assestR/js/jquery.min.js,200,OK,Thread Group 1-2,text,true,,85879,364,3,3,http://localhost:4200/assets/assestR/js/jquery.min.js,5,0,0
+1730740083013,5,http://localhost:4200/auth/reqester,200,OK,Thread Group 1-3,text,true,,2201,508,3,3,http://localhost:4200/auth/reqester,5,0,2
+1730740083059,7,http://localhost:4200/assets/assestR/js/roberto.bundle.js,200,OK,Thread Group 1-1,text,true,,224120,368,3,3,http://localhost:4200/assets/assestR/js/roberto.bundle.js,6,0,0
+1730740083271,4,http://localhost:4200/assets/assestR/js/popper.min.js,200,OK,Thread Group 1-2,text,true,,20911,364,3,3,http://localhost:4200/assets/assestR/js/popper.min.js,4,0,0
+1730740083322,4,http://localhost:4200/assets/assestR/style.css,200,OK,Thread Group 1-3,text,true,,73305,372,3,3,http://localhost:4200/assets/assestR/style.css,3,0,0
+1730740083370,4,http://localhost:4200/assets/assestR/js/default-assets/active.js,200,OK,Thread Group 1-1,text,true,,9966,375,3,3,http://localhost:4200/assets/assestR/js/default-assets/active.js,4,0,0
+1730740083580,4,http://localhost:4200/assets/assestR/js/bootstrap.min.js,200,OK,Thread Group 1-2,text,true,,56075,367,3,3,http://localhost:4200/assets/assestR/js/bootstrap.min.js,4,0,0
+1730740083629,4,http://localhost:4200/styles.css,200,OK,Thread Group 1-3,text,true,,122497,358,3,3,http://localhost:4200/styles.css,4,0,0
+1730740083677,4,http://localhost:4200/runtime.js,200,OK,Thread Group 1-1,text,true,,13584,343,3,3,http://localhost:4200/runtime.js,4,0,0
+1730740083893,5,http://localhost:4200/assets/assestR/js/roberto.bundle.js,200,OK,Thread Group 1-2,text,true,,224120,368,3,3,http://localhost:4200/assets/assestR/js/roberto.bundle.js,5,0,0
+1730740083941,6,http://localhost:4200/assets/assestR/js/jquery.min.js,200,OK,Thread Group 1-3,text,true,,85879,364,3,3,http://localhost:4200/assets/assestR/js/jquery.min.js,5,0,0
+1730740083989,6,http://localhost:4200/polyfills.js,200,OK,Thread Group 1-1,text,true,,307464,345,3,3,http://localhost:4200/polyfills.js,5,0,0
+1730740084211,4,http://localhost:4200/assets/assestR/js/default-assets/active.js,200,OK,Thread Group 1-2,text,true,,9966,375,3,3,http://localhost:4200/assets/assestR/js/default-assets/active.js,3,0,0
+1730740084258,4,http://localhost:4200/assets/assestR/js/popper.min.js,200,OK,Thread Group 1-3,text,true,,20911,364,3,3,http://localhost:4200/assets/assestR/js/popper.min.js,4,0,0
+1730740084297,167,http://localhost:4200/vendor.js,200,OK,Thread Group 1-1,text,true,,5119590,342,3,3,http://localhost:4200/vendor.js,21,0,0
+1730740084524,3,http://localhost:4200/runtime.js,200,OK,Thread Group 1-2,text,true,,13584,343,3,3,http://localhost:4200/runtime.js,3,0,0
+1730740084570,3,http://localhost:4200/assets/assestR/js/bootstrap.min.js,200,OK,Thread Group 1-3,text,true,,56075,367,3,3,http://localhost:4200/assets/assestR/js/bootstrap.min.js,3,0,0
+1730740084766,7,http://localhost:4200/main.js,200,OK,Thread Group 1-1,text,true,,529067,340,3,3,http://localhost:4200/main.js,5,0,0
+1730740084831,7,http://localhost:4200/polyfills.js,200,OK,Thread Group 1-2,text,true,,307464,345,3,3,http://localhost:4200/polyfills.js,5,0,0
+1730740084885,5,http://localhost:4200/assets/assestR/js/roberto.bundle.js,200,OK,Thread Group 1-3,text,true,,224120,368,3,3,http://localhost:4200/assets/assestR/js/roberto.bundle.js,5,0,0
+1730740085076,4,http://localhost:4200/styles.js,200,OK,Thread Group 1-1,text,true,,179171,342,3,3,http://localhost:4200/styles.js,4,0,0
+1730740085193,4,http://localhost:4200/assets/assestR/js/default-assets/active.js,200,OK,Thread Group 1-3,text,true,,9966,375,3,3,http://localhost:4200/assets/assestR/js/default-assets/active.js,4,0,0
+1730740085142,83,http://localhost:4200/vendor.js,200,OK,Thread Group 1-2,text,true,,5119590,342,3,3,http://localhost:4200/vendor.js,23,0,0
+1730740085382,27,http://localhost:4200/scripts.js,200,OK,Thread Group 1-1,text,true,,706742,343,3,3,http://localhost:4200/scripts.js,6,0,0
+1730740085500,3,http://localhost:4200/runtime.js,200,OK,Thread Group 1-3,text,true,,13584,343,3,3,http://localhost:4200/runtime.js,3,0,0
+1730740085532,6,http://localhost:4200/main.js,200,OK,Thread Group 1-2,text,true,,529067,340,3,3,http://localhost:4200/main.js,4,0,0
+1730740085720,5,http://localhost:4200/assets/assestR/css/bootstrap.min.css,200,OK,Thread Group 1-1,text,true,,153470,384,3,3,http://localhost:4200/assets/assestR/css/bootstrap.min.css,4,0,0
+1730740085805,6,http://localhost:4200/polyfills.js,200,OK,Thread Group 1-3,text,true,,307464,345,3,3,http://localhost:4200/polyfills.js,4,0,0
+1730740085840,4,http://localhost:4200/styles.js,200,OK,Thread Group 1-2,text,true,,179171,342,3,3,http://localhost:4200/styles.js,4,0,0
+1730740086028,4,http://localhost:4200/assets/assestR/css/animate.css,200,OK,Thread Group 1-1,text,true,,57381,378,3,3,http://localhost:4200/assets/assestR/css/animate.css,4,0,0
+1730740086151,19,http://localhost:4200/scripts.js,200,OK,Thread Group 1-2,text,true,,706742,343,3,3,http://localhost:4200/scripts.js,6,0,0
+1730740086120,163,http://localhost:4200/vendor.js,200,OK,Thread Group 1-3,text,true,,5119590,342,3,3,http://localhost:4200/vendor.js,21,0,0
+1730740086337,4,http://localhost:4200/assets/assestR/css/default-assets/classy-nav.css,200,OK,Thread Group 1-1,text,true,,15363,396,3,3,http://localhost:4200/assets/assestR/css/default-assets/classy-nav.css,4,0,0
+1730740086478,4,http://localhost:4200/assets/assestR/css/bootstrap.min.css,200,OK,Thread Group 1-2,text,true,,153470,384,3,3,http://localhost:4200/assets/assestR/css/bootstrap.min.css,3,0,0
+1730740086586,8,http://localhost:4200/main.js,200,OK,Thread Group 1-3,text,true,,529067,340,3,3,http://localhost:4200/main.js,6,0,0
+1730740086649,5,http://localhost:4200/assets/assestR/css/owl.carousel.min.css,200,OK,Thread Group 1-1,text,true,,3221,387,3,3,http://localhost:4200/assets/assestR/css/owl.carousel.min.css,5,0,0
+1730740086786,3,http://localhost:4200/assets/assestR/css/animate.css,200,OK,Thread Group 1-2,text,true,,57381,378,3,3,http://localhost:4200/assets/assestR/css/animate.css,3,0,0
+1730740086897,4,http://localhost:4200/styles.js,200,OK,Thread Group 1-3,text,true,,179171,342,3,3,http://localhost:4200/styles.js,4,0,0
+1730740086961,3,http://localhost:4200/assets/assestR/css/magnific-popup.css,200,OK,Thread Group 1-1,text,true,,7236,385,3,3,http://localhost:4200/assets/assestR/css/magnific-popup.css,3,0,0
+1730740087094,4,http://localhost:4200/assets/assestR/css/default-assets/classy-nav.css,200,OK,Thread Group 1-2,text,true,,15363,396,3,3,http://localhost:4200/assets/assestR/css/default-assets/classy-nav.css,4,0,0
+1730740087204,19,http://localhost:4200/scripts.js,200,OK,Thread Group 1-3,text,true,,706742,343,3,3,http://localhost:4200/scripts.js,5,0,0
+1730740087267,4,http://localhost:4200/assets/assestR/css/nice-select.css,200,OK,Thread Group 1-1,text,true,,4291,382,3,3,http://localhost:4200/assets/assestR/css/nice-select.css,4,0,0
+1730740087407,5,http://localhost:4200/assets/assestR/css/owl.carousel.min.css,200,OK,Thread Group 1-2,text,true,,3221,387,3,3,http://localhost:4200/assets/assestR/css/owl.carousel.min.css,5,0,0
+1730740087528,5,http://localhost:4200/assets/assestR/css/bootstrap.min.css,200,OK,Thread Group 1-3,text,true,,153470,384,3,3,http://localhost:4200/assets/assestR/css/bootstrap.min.css,4,0,0
+1730740087575,4,http://localhost:4200/assets/assestR/css/font-awesome.min.css,200,OK,Thread Group 1-1,text,true,,31247,387,3,3,http://localhost:4200/assets/assestR/css/font-awesome.min.css,3,0,0
+1730740087726,5,http://localhost:4200/assets/assestR/css/magnific-popup.css,200,OK,Thread Group 1-2,text,true,,7236,385,3,3,http://localhost:4200/assets/assestR/css/magnific-popup.css,5,0,0
+1730740087839,3,http://localhost:4200/assets/assestR/css/animate.css,200,OK,Thread Group 1-3,text,true,,57381,378,3,3,http://localhost:4200/assets/assestR/css/animate.css,3,0,0
+1730740087881,4,http://localhost:4200/assets/assestR/css/style.css,200,OK,Thread Group 1-1,text,true,,25523,376,3,3,http://localhost:4200/assets/assestR/css/style.css,3,0,0
+1730740088036,6,http://localhost:4200/assets/assestR/css/nice-select.css,200,OK,Thread Group 1-2,text,true,,4291,382,3,3,http://localhost:4200/assets/assestR/css/nice-select.css,6,0,0
+1730740088148,5,http://localhost:4200/assets/assestR/css/default-assets/classy-nav.css,200,OK,Thread Group 1-3,text,true,,15363,396,3,3,http://localhost:4200/assets/assestR/css/default-assets/classy-nav.css,4,0,0
+1730740088188,3,http://localhost:4200/assets/assestR/css/bootstrap-datepicker.min.css,200,OK,Thread Group 1-1,text,true,,16017,395,3,3,http://localhost:4200/assets/assestR/css/bootstrap-datepicker.min.css,3,0,0
+1730740088351,3,http://localhost:4200/assets/assestR/css/font-awesome.min.css,200,OK,Thread Group 1-2,text,true,,31247,387,3,3,http://localhost:4200/assets/assestR/css/font-awesome.min.css,3,0,0
+1730740088457,5,http://localhost:4200/assets/assestR/css/owl.carousel.min.css,200,OK,Thread Group 1-3,text,true,,3221,387,3,3,http://localhost:4200/assets/assestR/css/owl.carousel.min.css,5,0,0
+1730740088494,5,http://localhost:4200/assets/assestR/css/jquery-ui.min.css,200,OK,Thread Group 1-1,text,true,,17216,384,3,3,http://localhost:4200/assets/assestR/css/jquery-ui.min.css,4,0,0
+1730740088657,5,http://localhost:4200/assets/assestR/css/style.css,200,OK,Thread Group 1-2,text,true,,25523,376,3,3,http://localhost:4200/assets/assestR/css/style.css,5,0,0
+1730740088767,4,http://localhost:4200/assets/assestR/css/magnific-popup.css,200,OK,Thread Group 1-3,text,true,,7236,385,3,3,http://localhost:4200/assets/assestR/css/magnific-popup.css,4,0,0
+1730740088964,4,http://localhost:4200/assets/assestR/css/bootstrap-datepicker.min.css,200,OK,Thread Group 1-2,text,true,,16017,395,3,3,http://localhost:4200/assets/assestR/css/bootstrap-datepicker.min.css,4,0,0
+1730740089076,5,http://localhost:4200/assets/assestR/css/nice-select.css,200,OK,Thread Group 1-3,text,true,,4291,382,3,3,http://localhost:4200/assets/assestR/css/nice-select.css,5,0,0
+1730740089277,3,http://localhost:4200/assets/assestR/css/jquery-ui.min.css,200,OK,Thread Group 1-2,text,true,,17216,384,3,3,http://localhost:4200/assets/assestR/css/jquery-ui.min.css,3,0,0
+1730740089387,4,http://localhost:4200/assets/assestR/css/font-awesome.min.css,200,OK,Thread Group 1-3,text,true,,31247,387,3,3,http://localhost:4200/assets/assestR/css/font-awesome.min.css,4,0,0
+1730740089694,4,http://localhost:4200/assets/assestR/css/style.css,200,OK,Thread Group 1-3,text,true,,25523,376,3,3,http://localhost:4200/assets/assestR/css/style.css,4,0,0
+1730740088809,1126,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,702,646,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,1124,0,1093
+1730740089591,344,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,702,646,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,342,0,311
+1730740090000,5,http://localhost:4200/assets/assestR/css/bootstrap-datepicker.min.css,200,OK,Thread Group 1-3,text,true,,16017,395,3,3,http://localhost:4200/assets/assestR/css/bootstrap-datepicker.min.css,5,0,0
+1730740090243,5,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,200,OK,Thread Group 1-1,bin,true,,35136,433,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,5,0,0
+1730740090244,7,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,200,OK,Thread Group 1-2,bin,true,,35136,433,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,7,0,0
+1730740090307,4,http://localhost:4200/assets/assestR/css/jquery-ui.min.css,200,OK,Thread Group 1-3,text,true,,17216,384,3,3,http://localhost:4200/assets/assestR/css/jquery-ui.min.css,4,0,0
+1730740090555,7,http://localhost:4200/assets/assestR/css/fonts/ElegantIcons.woff,200,OK,Thread Group 1-2,text,true,,63936,375,3,3,http://localhost:4200/assets/assestR/css/fonts/ElegantIcons.woff,6,0,0
+1730740090555,12,http://localhost:4200/assets/assestR/css/fonts/ElegantIcons.woff,200,OK,Thread Group 1-1,text,true,,63936,375,3,3,http://localhost:4200/assets/assestR/css/fonts/ElegantIcons.woff,11,0,0
+1730740090615,73,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,683,646,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,73,0,45
+1730740090871,7,http://localhost:4200/assets/assestR/fonts/fontawesome-webfont.woff2?v=4.7.0,200,OK,Thread Group 1-1,text,true,,77434,387,3,3,http://localhost:4200/assets/assestR/fonts/fontawesome-webfont.woff2?v=4.7.0,6,0,0
+1730740090871,13,http://localhost:4200/assets/assestR/fonts/fontawesome-webfont.woff2?v=4.7.0,200,OK,Thread Group 1-2,text,true,,77434,387,3,3,http://localhost:4200/assets/assestR/fonts/fontawesome-webfont.woff2?v=4.7.0,13,0,0
+1730740090994,5,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,200,OK,Thread Group 1-3,bin,true,,35136,433,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,4,0,0
+1730740091187,6,http://localhost:4200/assets/assestR/img/core-img/favicon.png,200,OK,Thread Group 1-2,bin,true,,1635,433,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,6,0,0
+1730740091187,8,http://localhost:4200/assets/assestR/img/core-img/favicon.png,200,OK,Thread Group 1-1,bin,true,,1635,433,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,8,0,0
+1730740091302,3,http://localhost:4200/assets/assestR/css/fonts/ElegantIcons.woff,200,OK,Thread Group 1-3,text,true,,63936,375,3,3,http://localhost:4200/assets/assestR/css/fonts/ElegantIcons.woff,3,0,0
+1730740091509,4,http://localhost:4200/favicon.ico,200,OK,Thread Group 1-1,bin,true,,1232,405,3,3,http://localhost:4200/favicon.ico,4,0,0
+1730740091509,6,http://localhost:4200/favicon.ico,200,OK,Thread Group 1-2,bin,true,,1232,405,3,3,http://localhost:4200/favicon.ico,6,0,0
+1730740091609,6,http://localhost:4200/assets/assestR/fonts/fontawesome-webfont.woff2?v=4.7.0,200,OK,Thread Group 1-3,text,true,,77434,387,3,3,http://localhost:4200/assets/assestR/fonts/fontawesome-webfont.woff2?v=4.7.0,5,0,0
+1730740091922,4,http://localhost:4200/assets/assestR/img/core-img/favicon.png,200,OK,Thread Group 1-3,bin,true,,1635,433,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,4,0,0
+1730740092229,2,http://localhost:4200/favicon.ico,200,OK,Thread Group 1-3,bin,true,,1232,405,3,3,http://localhost:4200/favicon.ico,2,0,0
+1730740092536,3705,https://localhost:44318/api/User/UploadImage,204,No Content,Thread Group 1-3,,true,,115,998,3,3,https://localhost:44318/api/User/UploadImage,0,0,0
+1730740091819,4422,https://localhost:44318/api/User/UploadImage,204,No Content,Thread Group 1-2,,true,,115,998,3,3,https://localhost:44318/api/User/UploadImage,0,0,0
+1730740091818,4451,https://localhost:44318/api/User/UploadImage,204,No Content,Thread Group 1-1,,true,,115,998,3,3,https://localhost:44318/api/User/UploadImage,0,0,0
+1730740096558,25,https://localhost:44318/api/User/Register,204,No Content,Thread Group 1-3,,true,,115,880,3,3,https://localhost:44318/api/User/Register,0,0,0
+1730740082705,4105,Transaction Controller(Register),200,"Number of samples in transaction : 32, number of failing samples : 0",Thread Group 1-3,,true,,7961823,13542,3,3,null,209,9774,47
+1730740096558,27,https://localhost:44318/api/User/Register,204,No Content,Thread Group 1-2,,true,,115,880,3,3,https://localhost:44318/api/User/Register,0,0,0
+1730740081714,5035,Transaction Controller(Register),200,"Number of samples in transaction : 32, number of failing samples : 0",Thread Group 1-2,,true,,7961842,13542,3,3,null,502,9837,313
+1730740096573,12,https://localhost:44318/api/User/Register,204,No Content,Thread Group 1-1,,true,,115,880,3,3,https://localhost:44318/api/User/Register,0,0,0
+1730740080741,5965,Transaction Controller(Register),200,"Number of samples in transaction : 32, number of failing samples : 0",Thread Group 1-1,,true,,7961842,13542,3,3,null,1316,9880,1121
+1730740096887,6,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,702,646,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,6,0,0
+1730740096889,9,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,683,646,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,9,0,0
+1730740096889,10,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,683,646,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,9,0,0
+1730740097209,7,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,3
+1730740097209,9,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,3
+1730740097209,21,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740097522,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-1,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740097522,6,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-2,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740097538,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-3,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740097841,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740097841,5,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740097857,4,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740098151,13,https://localhost:44318/api/Login/Loginuser,200,OK,Thread Group 1-2,text,true,,406,716,3,3,https://localhost:44318/api/Login/Loginuser,13,0,0
+1730740098169,11,https://localhost:44318/api/Login/Loginuser,200,OK,Thread Group 1-3,text,true,,424,716,3,3,https://localhost:44318/api/Login/Loginuser,10,0,0
+1730740098151,12,https://localhost:44318/api/Login/Loginuser,200,OK,Thread Group 1-1,text,true,,424,716,3,3,https://localhost:44318/api/Login/Loginuser,12,0,0
+1730740096586,36,Transaction Controller(Login),200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-1,,true,,1807,2790,3,3,null,21,3768,3
+1730740096584,45,Transaction Controller(Login),200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-3,,true,,1826,2790,3,3,null,16,3761,0
+1730740096586,41,Transaction Controller(Login),200,"Number of samples in transaction : 5, number of failing samples : 0",Thread Group 1-2,,true,,1789,2790,3,3,null,22,3763,3
+1730740100716,2005,JDBC Request,200,OK,Thread Group 1-3,text,true,,12,0,3,3,null,1987,0,1543
+1730740100716,2015,JDBC Request,200,OK,Thread Group 1-2,text,true,,12,0,3,3,null,2015,0,2005
+1730740100716,2019,JDBC Request,200,OK,Thread Group 1-1,text,true,,12,0,3,3,null,2019,0,2016
+1730740103191,22,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740103190,24,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740103190,27,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-3,text,true,,978,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,26,0,0
+1730740103526,106,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,106,0,0
+1730740103526,143,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740103526,179,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,179,0,0
+1730740103940,9,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,4
+1730740103981,8,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,7,0,0
+1730740104030,6,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,3
+1730740104264,6,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740104295,6,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,2
+1730740104340,13,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740104611,4,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-3,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740104575,104,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,103,0,0
+1730740104656,78,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,78,0,0
+1730740104921,4,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740104985,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740105046,7,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740105243,11,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-3,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,11,0,0
+1730740102879,203,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-3,,true,,2635,4123,3,3,null,44,2173,2
+1730740105307,4,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,200,OK,Thread Group 1-2,bin,true,,67206,450,3,3,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,4,0,0
+1730740105361,4,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,200,OK,Thread Group 1-1,bin,true,,67206,450,3,3,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,4,0,0
+1730740105560,9,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-3,text,true,,978,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,9,0,0
+1730740105622,5,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-2,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740105676,4,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-1,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740105875,12,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740105938,4,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740105991,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740106210,8,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,8,0,0
+1730740106258,90,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740106307,91,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740106523,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740106661,6,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740106708,8,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740106842,5,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-3,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740106980,9,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,8,0,0
+1730740107026,9,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,9,0,0
+1730740107152,4,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740107304,5,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740102879,374,Transaction Controller(changing name),200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-2,,true,,70921,7422,3,3,null,221,4057,4
+1730740107352,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740102879,429,Transaction Controller(changing name),200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-1,,true,,70921,7422,3,3,null,270,4049,3
+1730740107459,87,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-3,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,87,0,0
+1730740105255,129,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-3,,true,,2616,4123,3,3,null,104,2163,0
+1730740107612,5,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740107663,72,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740107858,8,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-3,text,true,,978,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,8,0,0
+1730740107926,8,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,7,0,0
+1730740108041,8,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,8,0,0
+1730740108249,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740108169,86,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740108356,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740108559,4,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740108559,5,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,5,0,0
+1730740108662,4,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740108879,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740108878,9,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,8,0,0
+1730740108973,7,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,7,0,0
+1730740109190,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740109190,5,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-3,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740109288,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740109498,4,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740109498,5,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,304,Not Modified,Thread Group 1-2,,true,,235,504,3,3,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,0,0,0
+1730740109599,3,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,304,Not Modified,Thread Group 1-1,,true,,235,504,3,3,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,0,0,0
+1730740109806,4,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-2,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740109806,14,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-3,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,14,0,0
+1730740107547,125,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-3,,true,,2616,4123,3,3,null,27,2149,0
+1730740109917,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-1,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740110119,5,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740110127,6,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740110232,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740110433,5,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740110447,7,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,6,0,0
+1730740110548,4,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740110752,7,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740110768,5,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740110855,6,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740111065,47,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,47,0,0
+1730740111084,61,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740111170,6,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,6,0,0
+1730740111422,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740107310,110,Transaction Controller(changing name),200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-2,,true,,3931,7476,3,3,null,62,4006,0
+1730740111462,7,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,7,0,0
+1730740111484,5,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740107357,129,Transaction Controller(changing name),200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-1,,true,,3969,7476,3,3,null,21,4004,0
+1730740111738,7,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-2,text,true,,978,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,7,0,0
+1730740111777,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740111793,8,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-1,text,true,,978,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,8,0,0
+1730740112049,6,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740112101,4,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,200,OK,Thread Group 1-3,bin,true,,67206,450,3,3,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,4,0,0
+1730740112106,9,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740112371,8,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,8,0,0
+1730740112418,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-3,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740112418,7,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,7,0,0
+1730740112693,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740112730,2,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740112730,5,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740113000,4,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-2,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740113037,4,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-1,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740113037,6,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740113310,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740113354,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740113354,4,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740113628,8,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-2,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,8,0,0
+1730740111427,40,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-2,,true,,2616,4123,3,3,null,23,2169,0
+1730740113662,9,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,9,0,0
+1730740113662,9,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-1,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,9,0,0
+1730740111490,45,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,2635,4123,3,3,null,24,2137,0
+1730740113938,11,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-2,text,true,,959,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,11,0,0
+1730740113985,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740109822,120,Transaction Controller(changing name),200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-3,,true,,70921,7422,3,3,null,26,4047,0
+1730740113985,8,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-1,text,true,,978,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,8,0,0
+1730740114255,5,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740114294,6,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740114294,6,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740114571,7,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,6,0,0
+1730740114603,8,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,8,0,0
+1730740114603,8,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,8,0,0
+1730740114888,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740114913,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740114913,6,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740115197,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-2,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740115221,4,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740115245,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-1,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740115515,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740115529,5,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,702,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,5,0,0
+1730740115552,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740115822,13,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-2,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,13,0,0
+1730740113636,45,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-2,,true,,2616,4123,3,3,null,30,2155,0
+1730740115837,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740115861,6,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-1,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,6,0,0
+1730740113672,40,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,2616,4123,3,3,null,22,2156,0
+1730740116153,4,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,304,Not Modified,Thread Group 1-3,,true,,235,504,3,3,http://localhost:4200/assets/Images/6cee9894-7106-4425-944a-5bb01c8d3dfe_R.jpg,0,0,0
+1730740116153,9,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-2,text,true,,978,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,9,0,0
+1730740116169,9,https://localhost:44318/api/Billercategory/GetAllBillercategory,200,OK,Thread Group 1-1,text,true,,959,658,3,3,https://localhost:44318/api/Billercategory/GetAllBillercategory,9,0,0
+1730740116464,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-3,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740116463,7,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-2,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740116487,5,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-1,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1145,0,0,0
+1730740116769,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-3,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740116785,7,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-2,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,7,0,0
+1730740116801,7,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-1,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,7,0,0
+1730740117104,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-2,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740117117,4,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-1,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740117080,90,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740117412,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-2,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740117428,4,http://localhost:4200/assets/assestR/img/core-img/favicon.png,304,Not Modified,Thread Group 1-1,,true,,233,485,3,3,http://localhost:4200/assets/assestR/img/core-img/favicon.png,0,0,0
+1730740117471,7,https://localhost:44318/api/User/GetUserprofile/1025,204,No Content,Thread Group 1-3,,true,,115,654,3,3,https://localhost:44318/api/User/GetUserprofile?userId=1144,0,0,0
+1730740117717,4,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-2,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740117735,3,http://localhost:4200/favicon.ico,304,Not Modified,Thread Group 1-1,,true,,233,457,3,3,http://localhost:4200/favicon.ico,0,0,0
+1730740117781,9,https://localhost:44318/api/SiteSetting/GetAllSitesetting,200,OK,Thread Group 1-3,text,true,,683,652,3,3,https://localhost:44318/api/SiteSetting/GetAllSitesetting,9,0,0
+1730740118023,13,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-2,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,13,0,0
+1730740115836,46,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-2,,true,,2616,4123,3,3,null,29,2154,0
+1730740118041,8,https://localhost:44318/api/Testimonial,200,OK,Thread Group 1-1,,true,,140,731,3,3,https://localhost:44318/api/Testimonial,8,0,0
+1730740115868,40,Transaction Controller (Testimonial),200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,2597,4123,3,3,null,24,2141,0
+1730740118092,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,304,Not Modified,Thread Group 1-3,,true,,234,486,3,3,http://localhost:4200/assets/assestR/img/core-img/logo22.jpeg,0,0,0
+1730740113989,149,Transaction Controller(changing name),200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-3,,true,,3931,7476,3,3,null,22,3958,0
+1730740118350,9,Debug Sampler,200,OK,Thread Group 1-1,text,true,,895,0,3,3,null,0,0,0
+1730740118350,9,Debug Sampler,200,OK,Thread Group 1-2,text,true,,894,0,3,3,null,0,0,0
+1730740118397,1,Debug Sampler,200,OK,Thread Group 1-3,text,true,,895,0,1,1,null,0,0,0

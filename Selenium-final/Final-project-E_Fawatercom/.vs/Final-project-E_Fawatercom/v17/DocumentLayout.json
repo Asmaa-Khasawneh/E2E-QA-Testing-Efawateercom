@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\testmethods\\report_testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\testmethods\\report_testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\testmethods\\profile_testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\testmethods\\profile_testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\testmethods\\login_testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\testmethods\\login_testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\testmethods\\categories_testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\testmethods\\categories_testmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\pom\\manage_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\pom\\manage_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\pom\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\assistantmethods\\login_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\assistantmethods\\login_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\assistantmethods\\categories_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\assistantmethods\\categories_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\pom\\manage_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\pom\\manage_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\assistantmethods\\report_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\assistantmethods\\report_assistantmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\pom\\manage_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\pom\\manage_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\data\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\data\\globalconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\assistantmethods\\profile_assesstantmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\assistantmethods\\profile_assesstantmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\helpers\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\helpers\\commonmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\data\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\data\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\helpers\\managedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\helpers\\managedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|c:\\users\\user\\source\\repos\\final-project-e_fawatercom\\final-project-e_fawatercom\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2A4679-B818-4A96-BB29-DE9984D7FA51}|Final-project-E_Fawatercom\\Final-project-E_Fawatercom.csproj|solutionrelative:final-project-e_fawatercom\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 326,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile_TestMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\TestMethods\\Profile_TestMethods.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\TestMethods\\Profile_TestMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\TestMethods\\Profile_TestMethods.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\TestMethods\\Profile_TestMethods.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:21:46.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\POM\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\POM\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\POM\\LoginPage.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\POM\\LoginPage.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:40:18.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manage_Categories.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\POM\\Manage_Categories.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\POM\\Manage_Categories.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\POM\\Manage_Categories.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\POM\\Manage_Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:36:15.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Categories_TestMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\TestMethods\\Categories_TestMethods.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\TestMethods\\Categories_TestMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\TestMethods\\Categories_TestMethods.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\TestMethods\\Categories_TestMethods.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAEwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:56:20.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login_TestMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\TestMethods\\Login_TestMethods.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\TestMethods\\Login_TestMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\TestMethods\\Login_TestMethods.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\TestMethods\\Login_TestMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:09:27.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report_TestMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\TestMethods\\Report_TestMethods.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\TestMethods\\Report_TestMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\TestMethods\\Report_TestMethods.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\TestMethods\\Report_TestMethods.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAOwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:15:22.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login_AssistantMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\AssistantMethods\\Login_AssistantMethods.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\AssistantMethods\\Login_AssistantMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\AssistantMethods\\Login_AssistantMethods.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\AssistantMethods\\Login_AssistantMethods.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:37:56.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categories_AssistantMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\AssistantMethods\\Categories_AssistantMethods.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\AssistantMethods\\Categories_AssistantMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\AssistantMethods\\Categories_AssistantMethods.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\AssistantMethods\\Categories_AssistantMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:00:30.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Manage_Report.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\POM\\Manage_Report.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\POM\\Manage_Report.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\POM\\Manage_Report.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\POM\\Manage_Report.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:29:50.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Report_AssistantMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\AssistantMethods\\Report_AssistantMethods.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\AssistantMethods\\Report_AssistantMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\AssistantMethods\\Report_AssistantMethods.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\AssistantMethods\\Report_AssistantMethods.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:54:03.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manage_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\POM\\Manage_Profile.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\POM\\Manage_Profile.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\POM\\Manage_Profile.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\POM\\Manage_Profile.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAF8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:34:45.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GlobalConstants.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\Data\\GlobalConstants.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\Data\\GlobalConstants.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\Data\\GlobalConstants.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\Data\\GlobalConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:02:07.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile_AssesstantMethod.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\AssistantMethods\\Profile_AssesstantMethod.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\AssistantMethods\\Profile_AssesstantMethod.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\AssistantMethods\\Profile_AssesstantMethod.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\AssistantMethods\\Profile_AssesstantMethod.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:08:56.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommonMethods.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\Helpers\\CommonMethods.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\Helpers\\CommonMethods.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\Helpers\\CommonMethods.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\Helpers\\CommonMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:03:35.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\Data\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\Data\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\Data\\ProfileForm.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\Data\\ProfileForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:03:21.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManageDriver.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\Helpers\\ManageDriver.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\Helpers\\ManageDriver.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\Helpers\\ManageDriver.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\Helpers\\ManageDriver.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:04:03.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Final-project-E_Fawatercom\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Final-project-E_Fawatercom\\Final-project-E_Fawatercom\\UnitTest1.cs",
+              "RelativeToolTip": "Final-project-E_Fawatercom\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T16:44:32.717Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
